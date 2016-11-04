@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<title>My Prime Academy Application Submission</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="content-contact">
+				<h1>Jeremy Leif</h1>
+				<h2>1770 Bryant Ave S Apt. 207</h2>
+				<h2>Minneapolis, MN 55403</h2>
+				<h2>507.380.3722
+			</div>
+
+			<div id="content-summary">
+				<h3>Objective</h3>
+				<p>To obtain a position in a challenging and positive work environment where my skills are utilized
+
+while continuously learning and building new skillsets./p>
+			</div>
+
+			<div id="content-Experience">
+				<div id="content-2nd Swing">
+					<h3>2nd Swing</h3>
+					<div class="block-date">
+							<h4>Online Sales Associate and Listing Expert</h4>
+							<h4>November 2014 - Current</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Sales leads for all head covers sold on 2 nd Swing, Amazon and EBay.</li>
+								<li>Maximize online sales through appropriately and efficiently listing items online.</li>
+								<li>Analyze competitors sales to determine competitive pricing.</li>
+								<li>Improve current process to maximize efficiency in listing and organizing products. </li>
+								<li>Analyze and monitor sales report for head cover, year-over- year comparison.</li>
+								<li>Assist with various Golf Expos and Events.</li>
+							</ul>	
+					</div>
+				</div>
+
+
+				<div id="content-Corporate Graphics Commercial, North Mankato, MN">
+					<h3>Corporate Graphics Commercial</h3>
+					<div class="block-date">
+							<h4>Shipping and Fulfillment Coordinator</h4>
+							<h4>March 2014 – November 2014</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Prepare and maintain shipping and receiving documentation and practices</li>
+								<li>Process and scan order, Fulfill orders, pack boxes, wrap and band pallets</li>
+								<li>Receive and deliver daily shipments</li>
+								<li>Shipment consolidations planning, handling gang shipments</li>
+                <li>Manage warehouse and fulfillment docking areas</li>
+                <li>Cost reduction through process improvements</li>
+                <li>Perform warehouse related tasks upon requests</li>
+                <li>Experienced and proficient with Monarch and Hagen software, Microsoft Office (Word, Excel, Office and Power Point)</li>
+							</ul>	
+					</div>
+				</div>
+
+
+				<div id="Mico Incorporated">
+					<h3>Mico Incorporated,</h3>
+					<div class="block-date">
+							<h4>CNC Machine Operator</h4>
+							<h4>November 2011- March 2014</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Ability to read and interpret blueprints effectively.</li>
+								<li>Geometric dimensions and tolerance course training</li>
+								<li>Proven ability to develop and implement ideas that are resourceful, gainful and quality orientated</li>
+                <li>Exceptionally skilled in axis CNC machining, tooling and fixtures</li>
+                <li>In depth knowledge of drawing interpretation</li>
+                <li>Hands on experience in calculating and setting up machine controls according to production type</li>
+                <li>Proficient in using tool maker’s scope, and other equipment used for inspection such as calipers,micrometers, travel indicators, plugs and depth gauges.</li>
+                <li>Experienced with different types of metals, such as iron, ductile iron, aluminum, brass</li>
+                <li>Exceeded in making efficient rates of parts produced per hour</li>
+                <li>Skilled with inspecting parts and routinely completing control plan inspections</li>
+                <li>Participated in an audit team to find the root cause of problem areas</li>
+							</ul>
+					</div>
+
+					
+					
+	
+					</div>		
+				
+							
+					
+			
+			</div>
+			
+
+			
+		</div>
+
+	</body>
+</html>
